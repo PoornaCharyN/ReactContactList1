@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Elma Herring",
+      "email": "elmaherring@unq.com",
+      "phone": "+1 (913) 497-2020"
+    },
+    {
+      "id": 2,
+      "name": "Knapp Berry",
+      "email": "knappberry@unq.com",
+      "phone": "+1 (951) 472-2967"
+    },
+    {
+      "id": 3,
+      "name": "Bell Burgess",
+      "email": "bellburgess@unq.com",
+      "phone": "+1 (887) 478-2693"
+    },
+    {
+      "id": 4,
+      "name": "Hobbs Ferrell",
+      "email": "hobbsferrell@unq.com",
+      "phone": "+1 (862) 581-3022"
+    },
+    {
+      "id": 5,
+      "name": "Marylou Medina",
+      "email": "maryloumedina@unq.com",
+      "phone": "+1 (996) 520-2967"
+    }
+  ]
+}
